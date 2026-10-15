@@ -1,0 +1,22 @@
+.data {
+    width: 100%;
+}
+
+.table {
+    border-collapse: collapse;
+    position: absolute;
+    table-layout: fixed;
+    width: 100%;
+}
+
+th {
+  border-bottom: 1px solid black;
+  padding: 0px;
+  width: 50%
+}
+
+td {
+  text-align: center;
+  border: none;
+  width: 50%
+}

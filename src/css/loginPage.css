@@ -1,0 +1,9 @@
+.formControl {
+  width: 30vw;
+}
+
+@media only screen and (max-width: 900px) {
+  .formControl {
+    width: 70vw;
+  }
+}

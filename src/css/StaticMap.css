@@ -1,0 +1,16 @@
+span.page-link {
+    background: #24948B !important;
+    border-color: #24948B !important;
+    color: white;
+}
+
+a.page-link {
+    color: black;
+}
+
+.disabled>.page-link, .page-link.disabled{
+    color: white !important;
+    /*background: white !important;*/
+    /*border-color: white !important;*/
+}
+

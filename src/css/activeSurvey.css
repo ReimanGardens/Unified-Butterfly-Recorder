@@ -1,0 +1,9 @@
+.circle {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fd5a89;
+    border-radius: 50%;
+  }
